@@ -9,3 +9,4 @@ The instructions are given when the game is started or simply open the file "ins
 to run the game simply copy all the files (README.md not necessary) in the project folder, project must be linked with SFML.
 After that run the Game.cpp file and the game is ready to play :>
 
+YOU CAN WATCH THE DEMO RUN (dino runner.mp4)
